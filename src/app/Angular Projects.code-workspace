@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "angular-accessibility",
+			"path": "../../../angular-accessibility"
+		}
+	],
+	"settings": {}
+}
